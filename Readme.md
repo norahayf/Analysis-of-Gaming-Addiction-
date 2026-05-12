@@ -1,1 +1,3 @@
 
+Abstract
+This study investigates the relationship between gaming addiction and its effects on sleep quality, academic performance, psychological well-being, physical health, and social interaction. Using a structured dataset analyzed in R, the study employs descriptive statistics and visualizations to identify behavioral patterns associated with gaming intensity. Findings reveal that excessive gaming is strongly associated with poor sleep quality, reduced academic performance, increased psychological distress, physical health challenges, and social isolation. These results align with contemporary literature, confirming that gaming addiction is a multidimensional issue requiring behavioral interventions and awareness strategies.
