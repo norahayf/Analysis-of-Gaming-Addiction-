@@ -32,7 +32,8 @@ IF('SWOT Data'[Score] >= 'SWOT Data'[Benchmark],"Above Benchmark","Below Benchma
 These calculations enabled dynamic analysis and interactive reporting.
 ## Data Modeling
 Relationships were created between tables to establish a structured data model.
-https://1drv.ms/i/c/550395fe09e84e6d/IQCZOakZk3JkSIY1EzGgTbfVAWnEog5w-Y5dOje5g3KS86U?e=Ln71Yo
+![](DATA MODELLING.png) 
+
 ## Conditional Formatting Preparation
 The cleaned and transformed dataset was then loaded into Power BI for dashboard development and reporting.
 The transformation process significantly improved:
