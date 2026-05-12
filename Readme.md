@@ -41,6 +41,5 @@ Visualization quality
 Reporting reliability
 Decision-making efficiency
 The final Power BI dashboard provides interactive, professional, and data-driven insights for strategic business analysis.
-
-Technologies Used
-Power BI Deskto
+## Technologies Used
+Power BI Desktop
