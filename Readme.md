@@ -41,7 +41,6 @@ The visuals were carefully selected based on the nature of the dataset and the a
 ## Data Modeling
 Relationships were created between tables to establish a structured data model.
 ![](DATA_MODELLING.png) 
-
 ## Conditional Formatting Preparation
 The cleaned and transformed dataset was then loaded into Power BI for dashboard development and reporting.
 The transformation process significantly improved:
@@ -51,5 +50,11 @@ Visualization quality
 Reporting reliability
 Decision-making efficiency
 The final Power BI dashboard provides interactive, professional, and data-driven insights for strategic business analysis.
+## Conclusion
+## Final Conclusion
+The Power BI dashboards successfully transformed raw business data into meaningful and interactive visual insights through effective data transformation, modeling, and visualization techniques. By combining KPI cards, charts, slicers, conditional formatting, and analytical visuals, the dashboard provides a comprehensive view of organizational performance and strategic indicators.
+The project demonstrates the importance of data analytics and business intelligence tools in supporting informed decision-making, performance monitoring, and strategic planning. The use of Power BI enhanced data accessibility, improved reporting efficiency, and enabled users to interact with data dynamically for deeper analysis.
+
+
 ## Technologies Used
 Power BI Desktop
