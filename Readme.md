@@ -30,9 +30,17 @@ Status =
 IF('SWOT Data'[Score] >= 'SWOT Data'[Benchmark],"Above Benchmark","Below Benchmark")
 ## Purpose
 These calculations enabled dynamic analysis and interactive reporting.
+## POWER BI DASHBOARD ANALYSIS
+Overview
+The Power BI dashboard was designed to provide interactive, insightful, and visually appealing business intelligence reports. Multiple visualizations were used to transform raw data into meaningful insights that support strategic decision-making and performance evaluation.
+## An executive Overview analysis
+![](EXECUTIVE_OVERVIEW.png)
+## PESTLE Analysis Dashboard
+![](PESTLE_ANALYSIS_DASHBOARD.png)
+The visuals were carefully selected based on the nature of the dataset and the analytical objectives of the project.
 ## Data Modeling
 Relationships were created between tables to establish a structured data model.
-![](DATA MODELLING.png) 
+![](DATA_MODELLING.png) 
 
 ## Conditional Formatting Preparation
 The cleaned and transformed dataset was then loaded into Power BI for dashboard development and reporting.
